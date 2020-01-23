@@ -13,5 +13,6 @@ def link
 end 
 
 def any_phrase
-  puts "Phrase"
+  phrase = "phrase"
+  puts Phrase
 end 
